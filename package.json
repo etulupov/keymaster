@@ -1,11 +1,11 @@
 {
-  "name": "keymaster",
+  "name": "keymaster-custom",
   "description": "library for defining and dispatching keyboard shortcuts",
-  "version": "1.6.3",
-  "author": "Thomas Fuchs <thomas@slash7.com> (http://mir.aculo.us)",
+  "version": "1.6.4",
+  "author": "Eugeny Tulupov",
   "repository": {
     "type": "git",
-    "url": "https://github.com/madrobby/keymaster"
+    "url": "https://github.com/etulupov/keymaster"
   },
   "main": "./keymaster.js"
 }
